@@ -8,7 +8,7 @@
 
 # <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> 𝐇𝐞𝐥𝐥𝐨 & 𝐰𝐞𝐥𝐜𝐨𝐦𝐞, 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞! 𝐈'𝐦 𝐓𝐈𝐘𝐀𝐌
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 𝙸'𝚖 𝚊 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝙰𝙸, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 & 𝚄𝙸/𝚄𝚇... 😎🤖🎨 🇮🇷✊🏻
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 𝙸'𝚖 𝚊 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝙰𝙸, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 & 𝚄𝙸/𝚄𝚇... 😎🤖🎨 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>
 # 💻 Skills & Technologies
