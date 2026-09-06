@@ -92,4 +92,14 @@ I'm particularly interested in Computer Science, AI, software development, web t
   <img src="https://img.shields.io/badge/Back--End-111111?style=for-the-badge">
   <img src="https://img.shields.io/badge/Front--End-111111?style=for-the-badge">
 </p>
----<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/> src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>
+---<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api?username=Tiyamdev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="TIYAM's GitHub Stats"/>
+</p><p align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Tiyamdev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages"/>
+</p><p href="https://github.com/HP2000C?refresh=true">
+  <img src="https://komarev.com/ghpvc/?username=Tiyamdev&style=for-the-badge&color=057000" alt="Profile Views">
+</p>"T1" (https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>
