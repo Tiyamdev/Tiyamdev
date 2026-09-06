@@ -19,7 +19,7 @@ I'm particularly interested in Computer Science, AI, software development, web t
 <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,figma,linux,mysql" />
 
 </p>    
----  💻 Programming
+💻 Programming
 
 <p align="center">    
   <a href="#"><img src="https://skillicons.dev/icons?i=python" width="55"></a>    
@@ -30,7 +30,7 @@ I'm particularly interested in Computer Science, AI, software development, web t
   <b>🟨 JavaScript</b> ·    
   <b>🐘 PHP</b>    
 </p>    
----  🌐 Front-End
+🌐 Front-End
 
 <p align="center">    
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="55"></a>    
@@ -42,7 +42,7 @@ I'm particularly interested in Computer Science, AI, software development, web t
   <b>🟨 JavaScript</b> ·    
   <b>💻 Front-End Development</b>    
 </p>    
----  ⚙️ Back-End
+⚙️ Back-End
 
 <p align="center">    
   <a href="#"><img src="https://skillicons.dev/icons?i=python" width="55"></a>    
@@ -52,7 +52,7 @@ I'm particularly interested in Computer Science, AI, software development, web t
   <b>🐘 PHP</b> ·    
   <b>⚙️ Back-End Development</b>    
 </p>    
----  🎨 Design
+🎨 Design
 
 <p align="center">    
   <img src="https://skillicons.dev/icons?i=figma" width="55">    
@@ -60,20 +60,20 @@ I'm particularly interested in Computer Science, AI, software development, web t
   <b>🎨 UI/UX</b> ·    
   <b>🖌️ Figma</b>    
 </p>    
----  🐧 Operating Systems & Infrastructure
+🐧 Operating Systems & Infrastructure
 
 <p align="center">    
   <img src="https://skillicons.dev/icons?i=linux" width="55">    
 </p>  <p align="center">    
   <b>🐧 Linux</b>    
 </p>    
----  🔐 Security
+🔐 Security
 
 <p align="center">    
   <img src="https://img.shields.io/badge/Cyber%20Security-Beginner-111111?style=for-the-badge&logo=hackthebox&logoColor=white">    
   <img src="https://img.shields.io/badge/Web%20Security-Beginner-111111?style=for-the-badge&logo=owasp&logoColor=white">    
 </p>    
----  🧩 Areas of Expertise
+🧩 Areas of Expertise
 
 <p align="center">    
   <img src="https://img.shields.io/badge/Full--Stack%20Development-111111?style=for-the-badge">    
