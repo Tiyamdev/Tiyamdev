@@ -101,14 +101,4 @@ I'm particularly interested in Computer Science, AI, software development, web t
   <img src="https://img.shields.io/badge/Back--End-111111?style=for-the-badge">  
   <img src="https://img.shields.io/badge/Front--End-111111?style=for-the-badge">  
 </p>  
----  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>  📊 GitHub Statistics
-
-<p align="center">  
-  <img src="https://github-readme-mwendwa.vercel.app/api?username=Tiyamdev&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="TIYAM's GitHub Stats"/>  
-</p>  <p align="center">  
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Tiyamdev&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages"/>  
-</p>  <p href="https://github.com/HP2000C?refresh=true">  
-  <img src="https://komarev.com/ghpvc/?username=Tiyamdev&style=for-the-badge&color=057000" alt="Profile Views">  
-</p>  
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>   
+---  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>  
