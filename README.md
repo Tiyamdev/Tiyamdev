@@ -11,7 +11,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 𝙸'𝚖 𝚊 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝙰𝙸, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 & 𝚄𝙸/𝚄𝚇... 😎🤖🎨 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>
-# 💻 Skills & Technologies
+💻 Skills & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,figma,linux,mysql" />
