@@ -1,3 +1,5 @@
+
+![CodeGIF](https://indoanalytica.com/static/images/bannerr.gif)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:8B5CF6&height=3&section=footer" width="100%"/>  
 
 <p align="center">  
